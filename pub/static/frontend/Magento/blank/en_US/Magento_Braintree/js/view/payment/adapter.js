@@ -1,0 +1,1 @@
+/var/www/html/demos/magento/vendor/magento/module-braintree/view/frontend/web/js/view/payment/adapter.js
